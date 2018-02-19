@@ -13,3 +13,14 @@ if n > 0:              # Prevents the computation of negative numbers
         for j in range((i * 2) - 1):
             print(k-(i-1), end="")
         print()
+'''
+    5
+   444
+  33333
+ 2222222
+111111111
+ 2222222
+  33333
+   444
+    5
+'''
