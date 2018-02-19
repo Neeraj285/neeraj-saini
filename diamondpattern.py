@@ -13,7 +13,8 @@ if n > 0:              # Prevents the computation of negative numbers
         for j in range((i * 2) - 1):
             print(k-(i-1), end="")
         print()
-'''
+''' 
+a diamond pattern using loops
     5
    444
   33333
